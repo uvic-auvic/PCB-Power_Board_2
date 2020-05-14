@@ -20,6 +20,9 @@ Project Outputs for*
 #History
 History
 
+#Status Report
+Status Report.Txt
+
 #Exports, but not manual ones
 exports/*
 !exports/manual
