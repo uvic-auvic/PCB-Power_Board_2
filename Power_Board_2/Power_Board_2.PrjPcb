@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Power_Board_2
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -207,10 +207,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKUKPMMI
 
-[GeneratedDocument1]
-DocumentPath=https://uvicca0-my.sharepoint.com/personal/poornack_uvicca0_onmicrosoft_com/Documents/University/Clubs/AUVic/Hardware/PCB-Power_Board_2/Power_Board_2/BOM/Bill of Materials-Power_Board_2.xlsx
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -222,7 +218,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Power_Board_2
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
