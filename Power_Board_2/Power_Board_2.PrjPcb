@@ -210,6 +210,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKUKPMMI
 
+[Document11]
+DocumentPath=Reed_Switch.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GZCGZYKO
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1190,7 +1207,7 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
