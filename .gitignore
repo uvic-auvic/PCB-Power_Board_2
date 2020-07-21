@@ -32,3 +32,8 @@ scripts/__pycache__/
 *.bak
 *.dwl
 *.dwl2
+
+#LTSpice
+*/Simulations/*.net
+*/Simulations/*.raw
+*/Simulations/*.plt
