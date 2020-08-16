@@ -53,7 +53,9 @@ The new PMB is divided into four subsections. The requirements for each subsecti
 
 ## Progress
 Schematic completed
+
 Simulations completed
+
 Layout in progress
 
 ![Image of layout thus far](https://github.com/uvic-auvic/PCB-Power_Board_2/blob/master/Power_Board_2/3D%20Model/Power_Board_2.png)
