@@ -56,6 +56,6 @@ Schematic completed
 Simulations completed
 Layout in progress
 
-![Image of layout thus far](Power_Board_2/3D Model/Power_Board_2.png)
+![Image of layout thus far](https://github.com/uvic-auvic/PCB-Power_Board_2/blob/master/Power_Board_2/3D%20Model/Power_Board_2.png)
 
 
